@@ -11,7 +11,7 @@ def print_x(n):
                 print("*", end="")
             else:
                 print(end=" ")
-        # this print line acts as a newline
+        # this print below acts as a newline
         print()
 
 
